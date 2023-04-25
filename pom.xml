@@ -24,8 +24,7 @@
 		<sonar.host.url>/<http://3.109.4.60:9000/</sonar.host.url>
                 <sonar.login>sqa_cc34dd5c59fb86318cd1d4ea76b433e1dbf8fcd3</sonar.login>
 		
-              
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+              	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 	</properties>
